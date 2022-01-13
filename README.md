@@ -1,7 +1,7 @@
 # HUFFMAN CODING
 Project created in C
 
-Study project 
+It was my study project.
 Link to presentation:
 https://www.youtube.com/watch?v=mY1yj95Fn-I
 
