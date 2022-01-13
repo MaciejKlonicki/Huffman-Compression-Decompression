@@ -1,6 +1,6 @@
 # HUFFMAN CODING
-
 Project created in C
+
 Study project 
 Link to presentation:
 https://www.youtube.com/watch?v=mY1yj95Fn-I
