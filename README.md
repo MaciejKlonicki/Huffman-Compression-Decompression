@@ -1,5 +1,5 @@
 # HUFFMAN CODING
-Project created in C
+Project created in C.
 
 Study project.
 Link to presentation:
